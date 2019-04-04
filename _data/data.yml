@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: mcadenhe@gmail.com
-    phone: (206) 747-3239
+    phone: 206 747 3239
     website: 
     linkedin: mcadenhe
     github: mcade
@@ -37,13 +37,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I am a software engineer motivated by working on meaningful projects
+      that add value to society and advance technology. During my six years
+      of web development experience I quickly and independently became familiar
+      with new programming concepts and paradigms. My clients and colleagues
+      valued the independence and attention to detail I showed in my work.
+      
+      My latest and most ambitious endeavors have been entrepreneurial in nature
+      at the intersection of technology and politics. It is my firm belief that
+      the best way to advance global culture is through a mixture of technological
+      and institutional progress.
 
 education:
     - degree: MSc in Computer Science
