@@ -40,16 +40,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a software engineer motivated by working on meaningful projects
-      that add value to society and advance technology. During my six years
+      I am a full stack web developer motivated by working on meaningful projects
+      that add value to society and advance the status quo. During my six years
       of web development experience I quickly and independently became familiar
-      with new programming concepts and paradigms. My clients and colleagues
+      with new programming concepts and paradigms to accomplish business goals. My clients and colleagues
       valued the independence and attention to detail I showed in my work.
       
-      My latest and most ambitious endeavors have been entrepreneurial in nature
-      at the intersection of technology and politics. It is my firm belief that
-      the best way to advance global culture is through a mixture of technological
-      and institutional progress.
+      My latest and most ambitious endeavors have been at the intersection of technology and politics. It is my firm belief that
+      the best way to advance global culture is through a mixture of technological and institutional progress.
 
 education:
     - degree: BSc in Management
