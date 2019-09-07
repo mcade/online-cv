@@ -57,38 +57,41 @@ education:
 experiences:
     - role: Full Stack Web Developer
       time: December 2012 - Present
-      company: Independent Contractor, Chicago
+      company: Independent Contractor, Chicago, IL
       details: |
           - Consulted clients about how technology could improve their bottom line
           - Focused on delivery of real-time responsive web applications
           - Gained proficiency with object oriented and functional programming, Git version control, HTML5, CSS3 and JS
           - Programmed with Elixir, Ruby, Erlang, Python, Objective C and Swift
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Account Executive
+      time: May 2012 - November 2012
+      company: Total Quality Logistics, Chicago, IL
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - Acted as a liaison between client, carrier, shipper, and receiver
+          - Developed solid relationships with clients by providing them with excellent customer service
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Math Tutor
+      time: June 2010 - August 2010
+      company: Purdue University, Business Opportunity Program, West Lafayette, IN
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Coached incoming Business Opportunity Program students through their Algebra and Trigonometry course
+          - For the second time in the last decade over half of the students received an A in the class
+          
+    - role: Administrative Assistant
+      time: August 2009 - June 2010
+      company: Purdue University, Agricultural Economics Department, West Lafayette, IN
+      details: |
+          - Recognized for technical troubleshooting skills used to rapidly and effectively resolve challenging technical issues
+          - Improved existing methods of filing, organizing, and producing class material by analyzing current operating practices and procedures, then revising them for maximum efficiency
+          - Maintained sensitive student databases which contained confidential information about each student
+          
+    - role: Research Assistant
+      time: June 2009 - August 2009
+      company: Dauch Center for the Management of Manufacturing Enterprises, West Lafayette, IN
+      details: |
+          - Analyzed data in order to gain an understanding of companies’ plans for the future and their strategies for adaptation to the current economic climate
+          - Earned commendations for teamwork, flexibility, and work excellence
 
 projects:
     title: Projects
