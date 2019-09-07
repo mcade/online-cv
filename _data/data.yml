@@ -116,18 +116,18 @@ projects:
                 - Akin to Twitter verified accounts, this feature makes voicemails from legit voters easy to identify so that a customer can trust the source of a voicemail isn’t a bot or Russian troll, but is a bonafide constituent.
 
       - name: A Real Talk
-        time: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        time: "October 2017 - June 2018"
+        tagline: "A tool for organizing small meetups between 3-4 people to discuss community affairs."
         details: |
-            Boom Boom Boom
+            I developed A Real Talk as an alternative to traditional town hall meetings. Instead of one central monthly meeting, meetups were decentralized and self-organized.
             - point
             - point
         
       - name: Rom
-        time: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        time: "October 2016 - April 2017"
+        tagline: "An e-commerce store for a modern pixel art brand."
         details: |
-            Boom Boom Boom
+            I worked closely with the brand's artist to develop a tech-centric theme that captured the essence of the brand.
             - point
             - point
 
