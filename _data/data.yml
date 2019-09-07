@@ -97,12 +97,23 @@ projects:
     title: Projects
     assignments:
       - name: People's Voicemail
-        time: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        time: "October 2018 - Present"
+        tagline: "A public voicemail box that functions as a voice-based community forum."
         details: |
-            Boom Boom Boom
-            - point
-            - point
+            I built this application to make politicians’ community communications more transparent and engaging.
+            - Integrated with Plivo to provide customers with their own phone number to take calls from constituents
+                - I decided to use Plivo instead of Twilio because it was cheaper but still had exceptional documentation.
+            - Used AWS Transcribe and AWS Comprehend to process incoming voicemails
+                - I created a couple of AWS Lambda functions to first transcribe a message, and then used the natural language processing capabilities of Comprehend to extract key phrases and sentiment.
+                - This provided customers with a way to see at a glance what the primary concerns of their constituents are without having to listen to a voicemail in its entirety.
+            - Created custom caller menu that uses uniquely generated extensions for replying to a voicemail
+                - Assigning transient extensions to voicemails was my solution for supporting threaded conversations.
+            - Added Stripe payment processing to facilitate monthly subscription plans that include variable usage costs
+                - Given that my costs were based on the number of calls a customer receives, pricing it with a flat monthly fee could have ended up costing me more than a customer was paying me.
+            - Supported time-anchored user reactions for voicemail messages
+                - On top of providing an interactive feature for lurkers to engage with, the exact time of where users react during the playback of a voicemail can signal to a customer what their audience deems important.
+            - Implemented a voter verification process so that voicemails from registered U.S. voters are evident
+                - Akin to Twitter verified accounts, this feature makes voicemails from legit voters easy to identify so that a customer can trust the source of a voicemail isn’t a bot or Russian troll, but is a bonafide constituent.
 
       - name: A Real Talk
         time: "#hook"
