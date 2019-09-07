@@ -95,31 +95,30 @@ experiences:
 
 projects:
     title: Projects
-    
     assignments:
       - name: People's Voicemail
         time: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
         details: |
-        Boom Boom Boom
-        - point
-        - point
+            Boom Boom Boom
+            - point
+            - point
 
       - name: A Real Talk
         time: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
         details: |
-        Boom Boom Boom
-        - point
-        - point
+            Boom Boom Boom
+            - point
+            - point
         
       - name: Rom
         time: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
         details: |
-        Boom Boom Boom
-        - point
-        - point
+            Boom Boom Boom
+            - point
+            - point
 
 skills:
     title: Skills &amp; Proficiency
