@@ -132,20 +132,6 @@ projects:
             - point
 
 skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Elixir & Pheonix
-        level: 98%
-        
-      - name: HTML5 & CSS
-        level: 98%
-
-      - name: Javascript
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 75%
-
-      - name: Figma Design Tools
-        level: 60%
+    - Superior analytical and problem-solving abilities, with a knack for improving existing processes
+    - Proven ability to diagnose, troubleshoot, and resolve technical problems
+    - Outstanding communication skills
