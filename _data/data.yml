@@ -122,6 +122,14 @@ projects:
             I developed A Real Talk as an alternative to traditional town hall meetings. Instead of one central monthly meeting, meetups were decentralized and self-organized.
             - point
             - point
+     
+      - name: Ensure Healthcare
+        time: "July 2017 - August 2017"
+        tagline: "A website for an insurance agency."
+        details: |
+            I redesigned an insurance agency's website to run faster and look more professional to prospective customers.
+            - point
+            - point
         
       - name: Rom
         time: "October 2016 - April 2017"
