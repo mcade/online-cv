@@ -19,22 +19,22 @@ sidebar:
     github: mcade
     gitlab:
     bitbucket:
-    twitter: '@mostlovemusic'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     interests:
-      - item: Technology
+      - item: Civic Tech
         link:
 
-      - item: Fitness
+      - item: Audiobooks
         link:
 
       - item: Cooking
         link:
       
-      - item: Reading
+      - item: Fitness
         link:
 
 career-profile:
