@@ -100,7 +100,7 @@ projects:
         time: "October 2018 - Present"
         tagline: "A public voicemail box that functions as a voice-based community forum."
         details: |
-            I built this application to make politicians’ community communications more transparent and engaging.
+            I built this application to make politicians’ community communications more transparent and engaging. [[view website]](https://peoplesvoicemail.com/)
             - Integrated with Plivo to provide customers with their own phone number to take calls from constituents
                 - I decided to use Plivo instead of Twilio because it was cheaper but still had exceptional documentation.
             - Used AWS Transcribe and AWS Comprehend to process incoming voicemails
