@@ -128,7 +128,7 @@ projects:
         tagline: "A website for an insurance agency."
         details: |
             I redesigned an insurance agency's website to run faster and look more professional to prospective customers. [website](https://ensurehealth.herokuapp.com/)
-            - Developed responsive website as a single page app to be lightning fast
+            - Developed responsive website from scratch as a single page app to be lightning fast
                 - Original site was made with a Wix template that loaded slowly and looked very homemade.
                 - I knew it was important to make a professional impression to visitors with a savvy and clean design.
             - Recreated brand logo and sourced other business logos to provide higher resolution images
