@@ -100,7 +100,7 @@ projects:
         time: "October 2018 - Present"
         tagline: "A public voicemail box that functions as a voice-based community forum."
         details: |
-            I built this application to make politicians’ community communications more transparent and engaging. [[view live site]](https://peoplesvoicemail.com/)
+            I built this application to make politicians’ community communications more transparent and engaging. [[view production site]](https://peoplesvoicemail.com/)
             - Integrated with Plivo to provide customers with their own phone number to take calls from constituents
                 - I decided to use Plivo instead of Twilio because it was cheaper but still had exceptional documentation.
             - Used AWS Transcribe and AWS Comprehend to process incoming voicemails
@@ -140,8 +140,8 @@ projects:
         tagline: "An e-commerce store for a modern pixel art brand."
         details: |
             I worked closely with the brand's artist to develop a tech-centric theme that captured the essence of the brand. [[view staging site]](https://pxrom.herokuapp.com/)
-            - Fashioned interactive custom arcade-like future dystopia game
-                - I felt that a simple about page didn't speak enough to the brand's concept so I wrote a choose-your-won-adventure game to enthrall users.
+            - Fashioned a custom arcade-like future dystopia game
+                - I felt that a simple about page wouldn't do the brand justice so I wrote a choose-your-own-adventure game to enthrall users.
                 - I also incorporated gifs in the game because it was lacking a visual element and they fit the bill perfectly.
             - Animated brand logo on homepage to slide down like a tetris block
                 - Nice little touches like this throughout the site helped to sell the theme and experience.
