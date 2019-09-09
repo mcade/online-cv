@@ -128,7 +128,7 @@ projects:
             - Provided a robust email notification system for letting users know when a talk reached the required number of users
                 - This was an important function because the way talks were organized, you wouldn't know if a talk was confirmed to happen or not until at least 2 other people RSVP'd.
             - Developed private chatrooms for talks that would become available only to attendees once a talk reached the minimum number of participants
-                - By adding a chatroom for upcoming talks, last-minute changes or coordination details could be discussed among the participants.
+                - By spawning chatrooms for confirmed upcoming talks, last-minute changes or coordination details could be discussed among the participants.
       - name: Ensure Healthcare
         time: "July 2017 - August 2017"
         tagline: "A website for an insurance agency."
