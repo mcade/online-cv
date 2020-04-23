@@ -96,11 +96,20 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - name: Family Blessings Phone
+        time: "March 2020 - April 2020"
+        tagline: "A gratitude voice journal for families to share things that they're grateful for."
+        details: |
+            This concept came about during my enrollment in an online course from Yale called the Science of Well-Being. The course material introduced me to a family blessings journal where family members write down something good that happened to them every day. I challenged myself to complete this project within two weeks and succeeded.
+            - Used my knowledge of telecom programming to make the journal voice-based and reachable by phone.
+            - Designated whitelist security protocols to protect private content of users.
+            - Prioritized development of a simple calling interface to record and play voice messages that children can understand. 
+            
       - name: People's Voicemail
-        time: "October 2018 - Present"
+        time: "October 2018 - March 2020"
         tagline: "A public voicemail box that functions as a voice-based community forum."
         details: |
-            I built this application to make politicians’ community communications more transparent and engaging. [[view production site]](https://peoplesvoicemail.com/)
+            I built this application to make politicians’ community communications more transparent and engaging.
             - Integrated with Plivo to provide customers with their own phone number to take calls from constituents
                 - I decided to use Plivo instead of Twilio because it was cheaper but still had exceptional documentation.
             - Used AWS Transcribe and AWS Comprehend to process incoming voicemails
