@@ -96,6 +96,16 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - name: Talkjaw
+        time: "May 2020"
+        tagline: "A public conversations platform that streams phone calls to listeners."
+        details: |
+            Talkjaw is a web browser analog to the popular Clubhouse app. I created it in a little over three weeks. You can create a room, or join a room. Once you're in a room, you can join the conversation by calling in.
+            - Took advantage of the Nexmo voice platform to establish conference calls and stream raw audio data to browsers.
+            - Created revenue model for reserving room names so that only the owner of a room name could start calls in that room.
+            - Incorporated Twitter API to allow users to verify their Twitter handle and have it attached to their profile when speaking in a room.
+            - Leveraged Phoenix Presence, PubSub, and LiveView to show the people currently in a room and allow them to send a speak request to the room's moderator.
+            
       - name: Family Blessings Phone
         time: "March 2020 - April 2020"
         tagline: "A gratitude voice journal for families to share things that they're grateful for."
